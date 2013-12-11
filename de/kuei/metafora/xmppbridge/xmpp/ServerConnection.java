@@ -48,7 +48,7 @@ public class ServerConnection implements ConnectionListener,
 	/**
 	 * default xmpp server to use
 	 */
-	public static final String defaultServer = "metaforaserver.ku.de";
+	public static final String defaultServer = "metafora-project.de";
 	/**
 	 * default port to use
 	 */

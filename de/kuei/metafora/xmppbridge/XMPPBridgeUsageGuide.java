@@ -14,9 +14,9 @@ import de.kuei.metafora.xmppbridge.xmpp.XmppMUCManager;
 public class XMPPBridgeUsageGuide {
 
 	// address of the test server
-	private static String testServer = "metafora.ku-eichstaett.de";
+	private static String testServer = "metafora-project.de";
 	// address of the productive server
-	private static String productiveServer = "metaforaserver.ku.de";
+	private static String productiveServer = "metafora-project.de";
 
 	// xmpp username
 	private static String xmppUser = "AXMPPUser";
