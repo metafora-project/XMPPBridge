@@ -6,7 +6,7 @@ public class WatchDog implements Runnable {
 
 	private static final Logger log = Logger.getLogger(WatchDog.class);
 
-	public static final String testAddress = "dogmaster@metaforaserver.ku-eichstaett.de";
+	public static final String testAddress = "dogmaster@metafora-project.de";
 
 	private ServerConnection connection;
 	private boolean run = true;

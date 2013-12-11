@@ -26,7 +26,7 @@ public class Start {
 
 		MessageConsolePrinter packetPrinter = new MessageConsolePrinter("Testprinter");
 		
-		NameConnectionMapper.getInstance().createConnection("metafora", "metafora.ku-eichstaett.de", "planningsolocommand", "didPfPSC", "planningToolAtThomasThinkpad");
+		NameConnectionMapper.getInstance().createConnection("metafora", "metafora-project.de", "planningsolocommand", "didPfPSC", "planningToolAtThomasThinkpad");
 		
 		ServerConnection connection = NameConnectionMapper.getInstance().getConnection("metafora");
 		
